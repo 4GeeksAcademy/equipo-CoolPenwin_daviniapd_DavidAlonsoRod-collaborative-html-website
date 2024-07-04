@@ -10,6 +10,8 @@ nav, .background-tagline {
     margin: 0px -12px;
 }
 
+
+
 footer {
     margin-bottom: 5rem;
     
@@ -20,11 +22,22 @@ footer {
 .form {
     margin:5rem;
 }
+
 .background-tagline {
     position: relative;
     height: 700px;
     background-size: cover; 
+    height: 100vh;
+    height: 700px;;
     background-image: url('/website/assets/img/bg.jpg'); 
     color: white; 
-    background-position: center;
+    background-position: bottom;
+}
+.textaco{
+    font-size: 10vw;
+    margin: 1rem;
+}
+.textaco2 {
+    font-size: 5vw;
+    margin: 1rem;
 }
