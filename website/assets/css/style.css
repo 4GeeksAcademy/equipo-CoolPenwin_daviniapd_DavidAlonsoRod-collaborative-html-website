@@ -10,15 +10,15 @@ nav, .background-tagline {
     margin: 0px -12px;
 }
 
-/* footer {
-    margin: 5rem;
+footer {
+    margin-bottom: 5rem;
     
-} */
+}
 /* .contact {
     margin: 5rem;
 } */
 .form {
-    margin:6rem;
+    margin:5rem;
 }
 .background-tagline {
     position: relative;
