@@ -1,12 +1,22 @@
 body{
     background: rgb(255, 255, 255);
+
+    /* margin: 5rem; // sugerencia para margenes unificados afecta a nav-bar// */ 
 }
+
+/* para los espacios de Port folio se pueden usar medida rem para que sea responsive tb*/
 
 nav {
     margin: 0px -12px;
 }
 
 footer {
-    margin: 9rem;
+    margin: 5rem;
     
+}
+.contact {
+    margin: 5rem;
+}
+.form {
+    margin:6rem;
 }
