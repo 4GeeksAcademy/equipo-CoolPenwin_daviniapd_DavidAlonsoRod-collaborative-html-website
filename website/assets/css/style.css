@@ -1,22 +1,31 @@
 body{
     background: rgb(255, 255, 255);
 
-    /* margin: 5rem; // sugerencia para margenes unificados afecta a nav-bar// */ 
-}
+
+}   
 
 /* para los espacios de Port folio se pueden usar medida rem para que sea responsive tb*/
 
-nav {
+nav, .background-tagline {
     margin: 0px -12px;
 }
 
-footer {
+/* footer {
     margin: 5rem;
     
-}
-.contact {
+} */
+/* .contact {
     margin: 5rem;
-}
+} */
 .form {
     margin:6rem;
 }
+.background-tagline {
+    position: relative;
+    height: 700px;
+    background-size: cover; 
+    background-image: url('/website/assets/img/bg.jpg'); 
+    color: white; 
+    background-position: center;
+}
+
